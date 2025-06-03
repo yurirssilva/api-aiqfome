@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1748974901416" clover="3.2.0">
+  <project timestamp="1748974901416" name="All files">
+    <metrics statements="127" coveredstatements="116" conditionals="23" coveredconditionals="22" methods="39" coveredmethods="31" elements="189" coveredelements="169" complexity="0" loc="127" ncloc="127" packages="11" files="15" classes="15"/>
+    <package name="src">
+      <metrics statements="31" coveredstatements="31" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+      <file name="routes.ts" path="C:\Users\yurex\OneDrive\Documentos\Projetos\api-magalu\backend\src\routes.ts">
+        <metrics statements="31" coveredstatements="31" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.entites">
+      <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="Product.ts" path="C:\Users\yurex\OneDrive\Documentos\Projetos\api-magalu\backend\src\entites\Product.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="18" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="2" type="stmt"/>
+      </file>
+      <file name="User.ts" path="C:\Users\yurex\OneDrive\Documentos\Projetos\api-magalu\backend\src\entites\User.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="13" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.helpers">
+      <metrics statements="4" coveredstatements="4" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="AppError.ts" path="C:\Users\yurex\OneDrive\Documentos\Projetos\api-magalu\backend\src\helpers\AppError.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="6" type="stmt"/>
+        <line num="5" count="12" type="stmt"/>
+        <line num="6" count="12" type="stmt"/>
+        <line num="7" count="12" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.useCases.Favorite.Get">
+      <metrics statements="15" coveredstatements="9" conditionals="1" coveredconditionals="0" methods="6" coveredmethods="2"/>
+      <file name="GetFavoriteUseCase.ts" path="C:\Users\yurex\OneDrive\Documentos\Projetos\api-magalu\backend\src\useCases\Favorite\Get\GetFavoriteUseCase.ts">
+        <metrics statements="15" coveredstatements="9" conditionals="1" coveredconditionals="0" methods="6" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.useCases.Favorite.Insert">
+      <metrics statements="21" coveredstatements="16" conditionals="3" coveredconditionals="3" methods="7" coveredmethods="3"/>
+      <file name="InsertFavoriteUseCase.ts" path="C:\Users\yurex\OneDrive\Documentos\Projetos\api-magalu\backend\src\useCases\Favorite\Insert\InsertFavoriteUseCase.ts">
+        <metrics statements="21" coveredstatements="16" conditionals="3" coveredconditionals="3" methods="7" coveredmethods="3"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="17" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.useCases.Favorite.Remove">
+      <metrics statements="12" coveredstatements="12" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <file name="RemoveFavoriteUseCase.ts" path="C:\Users\yurex\OneDrive\Documentos\Projetos\api-magalu\backend\src\useCases\Favorite\Remove\RemoveFavoriteUseCase.ts">
+        <metrics statements="12" coveredstatements="12" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.useCases.User.Create">
+      <metrics statements="9" coveredstatements="9" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <file name="CreateUserUseCase.ts" path="C:\Users\yurex\OneDrive\Documentos\Projetos\api-magalu\backend\src\useCases\User\Create\CreateUserUseCase.ts">
+        <metrics statements="9" coveredstatements="9" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.useCases.User.Edit">
+      <metrics statements="12" coveredstatements="12" conditionals="13" coveredconditionals="13" methods="2" coveredmethods="2"/>
+      <file name="EditUserUseCase.ts" path="C:\Users\yurex\OneDrive\Documentos\Projetos\api-magalu\backend\src\useCases\User\Edit\EditUserUseCase.ts">
+        <metrics statements="12" coveredstatements="12" conditionals="13" coveredconditionals="13" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="3" type="cond" truecount="3" falsecount="0"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.useCases.User.List">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="ListUserUseCase.ts" path="C:\Users\yurex\OneDrive\Documentos\Projetos\api-magalu\backend\src\useCases\User\List\ListUserUseCase.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.useCases.User.Remove">
+      <metrics statements="7" coveredstatements="7" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <file name="RemoveUserUseCase.ts" path="C:\Users\yurex\OneDrive\Documentos\Projetos\api-magalu\backend\src\useCases\User\Remove\RemoveUserUseCase.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="test.mocks">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="CacheProviderMock.ts" path="C:\Users\yurex\OneDrive\Documentos\Projetos\api-magalu\backend\test\mocks\CacheProviderMock.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+      <file name="FavoriteRepositoryMock.ts" path="C:\Users\yurex\OneDrive\Documentos\Projetos\api-magalu\backend\test\mocks\FavoriteRepositoryMock.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+      <file name="ProductProviderMock.ts" path="C:\Users\yurex\OneDrive\Documentos\Projetos\api-magalu\backend\test\mocks\ProductProviderMock.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+      <file name="UserRepositoryMock.ts" path="C:\Users\yurex\OneDrive\Documentos\Projetos\api-magalu\backend\test\mocks\UserRepositoryMock.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="4" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
