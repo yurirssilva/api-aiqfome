@@ -44,5 +44,5 @@ services:
       - redis
     command: sh -c "npm install && npm test"
     volumes:
-      - ./backend:/app
+      - ./backend:/web
 
