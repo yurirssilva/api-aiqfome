@@ -30,7 +30,7 @@
 ---
 
 ## Configuração e Execução
-1.  git clone https://github.com/seu-usuario/seu-repositorio.git
+1.  git clone https://github.com/yurirssilva/api-aiqfome.git
 
 2. Para execução da aplicação
     - docker-compose up --build
