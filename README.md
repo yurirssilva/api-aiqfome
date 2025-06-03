@@ -7,6 +7,7 @@
 - **JSON Web Tokens (JWT)** para autenticação  
 - **Swagger (OpenAPI 3.0)** para documentação da API  
 - **Docker e Docker Compose** para orquestração dos containers  
+- **Jest** para testes automatizados (unitários e de integração)  
 
 ---
 
@@ -19,6 +20,7 @@
 - **Cache inteligente usando Redis para acelerar consultas frequentes**  
 - **Validação e tratamento consistente de erros com classe `AppError`**  
 - **Documentação automática e interativa via Swagger UI**
+- **Cobertura de testes com Jest**
 
 ---
 
